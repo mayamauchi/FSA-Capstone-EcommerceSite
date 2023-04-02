@@ -35,11 +35,4 @@ This will start the server on port 4000 by default. You can change the port by s
 
 
 
-## Screenshots
-
-Home Page
-![App Screenshot](https://github.com/mayamauchi/FSA-Capstone-EcommerceSite/blob/main/home%20page.png?raw=true)
-
-Products
-![App Screenshot](https://github.com/mayamauchi/FSA-Capstone-EcommerceSite/blob/main/products.png?raw=true)
 
