@@ -2,7 +2,7 @@
 # FSA Capstone Project - Frontend
 This is the frontend component of the FSA Capstone project, as part of the Full-Stack Academy curriculum.
 
-The FSA Capstone is a full-stack e-commerce web application that allows users to browse and purchase galactic-themed products. The frontend is built using React and Redux, and communicates with the backend via a RESTful API. Using Stripe's API, users are able to purchase products at checkout. 
+The FSA Capstone is a full-stack e-commerce web application that allows users to browse and purchase galactic-themed products. The frontend is built using React and Redux, and communicates with the [backend](https://github.com/mayamauchi/FSA-Capstone-Backend) via a RESTful API. Using Stripe's API, users are able to purchase products at checkout. 
 
 ## Authors
 
