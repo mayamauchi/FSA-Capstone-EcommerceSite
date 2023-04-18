@@ -23,7 +23,6 @@ const OrderHistory = (props) => {
     e.preventDefault();
     navigate("/mycart/cart_items");
   }
-
   return (
     <div>
       <h1>Order History</h1>
