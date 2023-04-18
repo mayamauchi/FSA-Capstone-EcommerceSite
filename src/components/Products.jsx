@@ -53,7 +53,6 @@ const Products = (props) => {
         const mappedForUpdate = await Promise.all(
           userCart.map(async (item) => {
             if (item.productId == productId) {
-              console.log(item, "item ");
               const updated = await updateQuantity(item.id, item.quantity + 1);
               return updated;
             } else {

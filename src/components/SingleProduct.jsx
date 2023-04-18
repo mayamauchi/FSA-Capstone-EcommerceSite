@@ -114,7 +114,7 @@ const SingleProduct = (props) => {
         price,
         quantity
       );
-      console.log("addedToCart", addedToCart);
+
       if (addedToCart.message) {
         const mappedForUpdate = await Promise.all(
           userCart.map(async (item) => {
